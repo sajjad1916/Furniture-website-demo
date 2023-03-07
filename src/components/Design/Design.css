@@ -1,0 +1,152 @@
+/* design section start */
+
+.design_section {
+    width: 100%;
+    float: left;
+    /* background-image: url(../images/blog-bg.png); */
+    height: auto;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding-bottom: 100px;
+}
+
+.design_taital {
+    width: 100%;
+    float: left;
+    font-size: 40px;
+    color: #7c2c0c;
+    text-align: center;
+    font-weight: bold;
+}
+
+.design_text {
+    width: 100%;
+    float: left;
+    font-size: 16px;
+    color: #535353;
+    text-align: center;
+    margin: 0px;
+}
+
+.design_section_2 {
+    width: 100%;
+    float: left;
+    padding-top: 50px;
+}
+
+.box_main {
+    width: 100%;
+    border: 1px solid #aa7662;
+    padding: 50px;
+}
+
+.box_main:hover {
+    background-color: #efe4d1;
+    border: transparent;
+}
+
+.chair_text {
+    width: 100%;
+    font-size: 18px;
+    color: #7c2c0c;
+    text-align: center;
+    margin: 0px;
+    font-weight: 500;
+}
+
+.image_3 {
+    width: 100%;
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.image_4 {
+    width: 100%;
+    text-align: center;
+    padding-top: 120px;
+    min-height: 332px;
+}
+
+.buy_bt {
+    width: 170px;
+    margin: 0 auto;
+    text-align: center;
+    padding-top: 30px;
+}
+
+.buy_bt a {
+    width: 100%;
+    font-size: 18px;
+    color: #ffffff;
+    background-color: #7c2c0c;
+    padding: 8px 25px;
+    text-align: center;
+    text-transform: uppercase;
+    margin-top: 40px;
+    border-radius: 5px;
+}
+
+.buy_bt a:hover {
+    color: #ffffff;
+    background-color: #7c2c0c;
+}
+
+#my_slider a.carousel-control-next {
+    position: absolute;
+    right: 615px;
+    top: 110%;
+    background-color: #7c2c0c;
+    color: #ffffff;
+}
+
+#my_slider a.carousel-control-prev {
+    position: absolute;
+    left: 615px;
+    top: 110%;
+}
+
+#my_slider .carousel-control-prev,
+#my_slider .carousel-control-next {
+    width: 55px;
+    height: 55px;
+    background: #ffffff;
+    opacity: 1;
+    font-size: 20px;
+    color: #000;
+    border-radius: 100px;
+}
+
+#my_slider .carousel-control-prev:hover,
+#my_slider .carousel-control-next:hover,
+#my_slider .carousel-control-prev:focus,
+#my_slider .carousel-control-next:focus {
+    color: #ffffff;
+    background-color: #7c2c0c;
+}
+
+.read_bt {
+    width: 170px;
+    margin: 0 auto;
+    padding-top: 150px;
+}
+
+.read_bt a {
+    width: 100%;
+    float: left;
+    font-size: 18px;
+    color: #7c2c0c;
+    background-color: transparent;
+    border: 1px solid #bb9180;
+    padding: 8px 25px;
+    text-align: center;
+    margin-top: 40px;
+}
+
+.read_bt a:hover {
+    color: #ffffff;
+    background-color: #7c2c0c;
+}
+
+
+/* design section end */
